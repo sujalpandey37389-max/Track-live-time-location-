@@ -1,0 +1,10 @@
+{
+  "name": "NaviPulse Live - GPS Tracker & Safe Route Dispatch",
+  "description": "Live real-time Google Maps tracking with email notifications, mobile number precision location, E2EE cloud history logs, traffic avoidance shortcuts, and Gemini Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
